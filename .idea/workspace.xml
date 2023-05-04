@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07e25005-a4f7-4791-b843-7692721c31be" name="Changes" comment="Complete 1, 10, 11, 12, 14" />
+    <list default="true" id="07e25005-a4f7-4791-b843-7692721c31be" name="Changes" comment="Complete 1, 10, 11, 12, 14">
+      <change afterPath="$PROJECT_DIR$/1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,22 +41,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/spail&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "F:/codeProjects/WB/wb-l1/7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\codeProjects\WB\wb-l1\7" />
+      <recent name="F:\codeProjects\WB\wb-l1\6" />
+      <recent name="F:\codeProjects\WB\wb-l1\5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
