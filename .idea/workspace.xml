@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07e25005-a4f7-4791-b843-7692721c31be" name="Changes" comment="Complete 1, 10, 11, 12, 14">
-      <change afterPath="$PROJECT_DIR$/1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +43,7 @@
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "F:/codeProjects/WB/wb-l1/7",
+    "last_opened_file_path": "F:/codeProjects/WB/wb-l1",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -59,10 +52,30 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\codeProjects\WB\wb-l1" />
       <recent name="F:\codeProjects\WB\wb-l1\7" />
       <recent name="F:\codeProjects\WB\wb-l1\6" />
       <recent name="F:\codeProjects\WB\wb-l1\5" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="wb-l1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="wb-l1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
